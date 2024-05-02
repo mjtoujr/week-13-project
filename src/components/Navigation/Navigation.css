@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #472805;
+    width: 50%;
+    margin: auto auto 30px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul li {
+    display: inline;
+}
+
+.navbar ul li a {
+    display: inline-block;
+    padding: 10px 15px;
+    color: #fff;
+    text-decoration: none;
+}
