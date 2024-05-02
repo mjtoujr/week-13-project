@@ -1,5 +1,5 @@
 import LoginForm from "./components/LoginForm/LoginForm";
-import Navigation from "./components/Navigation/Navigation";{/*Imports are set*/}
+import Navigation from "./components/Navigation/Navigation";/*Imports are set*/
 
 
 function App() {

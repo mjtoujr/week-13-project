@@ -1,4 +1,4 @@
-import './LoginForm.css'; {/*Link to the styling*/}
+import './LoginForm.css'; /*Link to the styling*/
 
 export default function LoginForm() {
   return (
